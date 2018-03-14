@@ -25,8 +25,13 @@
 - 소스 코드 리팩토링을 통해 앱 탐색 속도를 향상시키거나, 기술 Driven의 서비스 제안은 기획자가 아닌 개발자만이 할 수 있다. 개발자가 제안하기 위해서는 개발자에게도 Input이 있어야 하며, 이와 같은 컨퍼런스를 통해 새로운 것을 학습하고 사람들과 교류함으로서 새로운 가치를 발굴하고 그 가치를 우리 서비스에 반영하는 Output을 낼 수 있다. 
 
 <br>
+<br>
+<br>
+
 
 ![WWDC2](https://github.com/younari/WWDC/blob/master/W4.jpg)
+
+
 
 # 핵심 내용 및 부가 가치
 
@@ -75,6 +80,9 @@
 <hr>
 <br>
 
+![WWDC4](https://github.com/younari/WWDC/blob/master/W3.jpg)
+
+
 # 국내 타사 개발팀 방문 사례
 
 ### 네이버 개발팀 방문 사례
@@ -96,6 +104,9 @@
 - ML (machine learning)
 
 
+<br>
+<br>
+
 ![WWDC3](https://github.com/younari/WWDC/blob/master/W2.jpg)
 
 
@@ -113,4 +124,3 @@
 - 숙소(5박) - 약 100만원
 
 
-![WWDC4](https://github.com/younari/WWDC/blob/master/W3.jpg)
